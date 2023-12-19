@@ -12,7 +12,7 @@ This model integrates cutting-edge technologies in computer vision, recommendati
 
 - **Culture Detection:** Incorporates machine learning models to identify and categorize cultural aspects, enabling precise tagging and classification of products based on their cultural attributes.
 
-- **Product Image Matching:** Utilizes computer vision models to compare the received product's image with the reference image stored in the application's database at the time of order.
+- **Product Verification** Utilizes computer vision models to compare the received product's image with the reference image stored in the application's database at the time of order.
   
 ## Technologies Used
 
