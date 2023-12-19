@@ -24,7 +24,7 @@ This model integrates cutting-edge technologies in computer vision, recommendati
 
 - **Culture Detection:** Natural Language Processing (NLP), Machine Learning models for text analysis and classification.
 
-- **Product Verification:** Utilizes computer vision models to compare the received product's image with the reference image stored in the application's database at the time of order.
+- **Product Verification:** Convolutional Neural Networks (CNNs), Image Feature Extraction Algorithms.
 
 ## Goals
 
