@@ -43,9 +43,9 @@ The primary objective of this model is to enhance the promotion and sales of cul
 3. **Detection:** The culture detection functionality within our system utilizes state-of-the-art machine learning models to identify and categorize cultural aspects inherent within products
 
 4. **User Feedback:** Users can provide feedback on the verification result, contributing to the system's accuracy and improvements.
+   
+5. **Affiliate:** Real-time product tracking and inventory management systems.
+
 
 <img src="https://github.com/Capstone-Project-CH2-PS070/Afiliya-Machine-Learning/assets/72635816/ba80eb70-a369-403b-b8ea-e0674f9533df" alt="Deskripsi Gambar" width="200">
-
-   
-6. **Affiliate:** Real-time product tracking and inventory management systems.
 
