@@ -7,7 +7,7 @@ The Product Detection Recommendation and Affiliate Tracking Model is an innovati
 This model integrates cutting-edge technologies in computer vision, recommendation systems, affiliate tracking, and cultural detection to cater specifically to the needs of cultural product promotion and sales. The primary goal is to create a robust system that facilitates the following key functions:
 
 - **Product Detection:** Employs advanced recommendation algorithms by images to suggest culturally relevant products to users based on their preferences.
-<img src="https://github.com/Capstone-Project-CH2-PS070/Afiliya-Machine-Learning/assets/72635816/ba80eb70-a369-403b-b8ea-e0674f9533df" alt="Deskripsi Gambar" width="50">
+<img src="https://github.com/Capstone-Project-CH2-PS070/Afiliya-Machine-Learning/assets/72635816/ba80eb70-a369-403b-b8ea-e0674f9533df" alt="Deskripsi Gambar" width="200">
 
 - **Affiliate Tracking:** Tracks affiliate marketing efforts by monitoring product referrals, clicks, and purchases made through affiliate links, ensuring fair compensation to affiliates for driving sales.
 
