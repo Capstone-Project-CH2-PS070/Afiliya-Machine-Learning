@@ -22,7 +22,7 @@ This model integrates cutting-edge technologies in computer vision, recommendati
 
 - **Affiliate Tracking:** Customized tracking algorithms, Cookie-based tracking, Referral link management.
 
-- **Culture Detection:** Natural Language Processing (NLP), Machine Learning models for text analysis and classification.
+- **Culture Detection:** Machine Learning models image classification.
 
 - **Product Verification:** Convolutional Neural Networks (CNNs), Image Feature Extraction Algorithms.
 
@@ -42,5 +42,9 @@ The primary objective of this model is to enhance the promotion and sales of cul
 
 2. **Feature Extraction and Verification:** Key visual features are extracted and compared, generating a verification score or result indicating the similarity between the images.
 
-3. **User Feedback:** Users can provide feedback on the verification result, contributing to the system's accuracy and improvements.
+3. **Detection:** The culture detection functionality within our system utilizes state-of-the-art machine learning models to identify and categorize cultural aspects inherent within products
+
+4. **User Feedback:** Users can provide feedback on the verification result, contributing to the system's accuracy and improvements.
+   
+5. **Affiliate:** Real-time product tracking and inventory management systems.
 
